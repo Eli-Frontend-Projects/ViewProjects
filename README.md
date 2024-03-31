@@ -7,6 +7,7 @@ This repository contains my solution to various challenges from [Frontend Mentor
 1. [Recipe Page](./recipe-page)
    - [Original Challenge](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
    - [Live Demo](https://eli-frontend-projects.github.io/recipe-page/)
+   - [Implementation](https://github.com/Eli-Frontend-Projects/recipe-page/)
 
 ## About Frontend Mentor
 
