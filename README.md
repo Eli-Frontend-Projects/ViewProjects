@@ -9,10 +9,15 @@ This repository contains my solution to various challenges from [Frontend Mentor
    - [Live](https://eli-frontend-projects.github.io/recipe-page/)
    - [Implementation](https://github.com/Eli-Frontend-Projects/recipe-page/)
 
-1. ### Social links profile
+2. ### Social links profile
    - [Original Challenge](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
    - [Live](https://eli-frontend-projects.github.io/social-links-profile/)
    - [Implementation](https://github.com/Eli-Frontend-Projects/social-links-profile/)
+
+3. ### FAQ Accordion
+   - [Original Challenge](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
+   - [Live](https://eli-frontend-projects.github.io/FAQaccordion/)
+   - [Implementation](https://github.com/Eli-Frontend-Projects/FAQaccordion)
 
 
 ## About Frontend Mentor
