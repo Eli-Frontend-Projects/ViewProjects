@@ -19,6 +19,10 @@ This repository contains my solution to various challenges from [Frontend Mentor
    - [Live](https://eli-frontend-projects.github.io/FAQaccordion/)
    - [Implementation](https://github.com/Eli-Frontend-Projects/FAQaccordion)
 
+4. ### Space Tourism
+   - [Original Challenge](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
+   - [Live](https://eli-frontend-projects.github.io/space-tourism-website/index.html)
+   - [Implementation](https://github.com/Eli-Frontend-Projects/space-tourism-website/)
 
 ## About Frontend Mentor
 
