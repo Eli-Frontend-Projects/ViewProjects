@@ -1,29 +1,61 @@
-# Frontend Mentor Projects
+# Frontend Projects
 
-This repository contains my solution to various challenges from [Frontend Mentor](https://www.frontendmentor.io/). Each project folder includes a README.md file detailing the challenge and implementation.
+This repository contains my solutions to various challenges from [Frontend Mentor](https://www.frontendmentor.io/). Each project folder includes a `README.md` file detailing the challenge and implementation.
 
-## List of Projects
+### 1. [Chat App](https://deploying-repo.onrender.com/)
+A real-time chat application with two versions available:
 
-1. ### Recipe Page
-   - [Original Challenge](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
-   - [Live](https://eli-frontend-projects.github.io/recipe-page/)
-   - [Implementation](https://github.com/Eli-Frontend-Projects/recipe-page/)
+- **Fast Load (Chat Area Only)**  
+  A quick-loading version allowing users to directly access the chat feature.  
+  [Live Demo (Chat Area Only)](https://deploying-repo.onrender.com/)
 
-2. ### Social links profile
-   - [Original Challenge](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
-   - [Live](https://eli-frontend-projects.github.io/social-links-profile/)
-   - [Implementation](https://github.com/Eli-Frontend-Projects/social-links-profile/)
+- **Full Version (Slower Load)**  
+  Includes login and signup pages. Load time is slower due to being hosted on Render’s free tier.  
+  [Live Demo (Full Version)](https://cluep-assignment-web.onrender.com/)
 
-3. ### FAQ Accordion
-   - [Original Challenge](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
-   - [Live](https://eli-frontend-projects.github.io/FAQaccordion/)
-   - [Implementation](https://github.com/Eli-Frontend-Projects/FAQaccordion)
+- [GitHub Repository](https://github.com/Buerkem/cluep-assignment)
 
-4. ### Space Tourism
-   - [Original Challenge](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
-   - [Live](https://eli-frontend-projects.github.io/space-tourism-website/index.html)
-   - [Implementation](https://github.com/Eli-Frontend-Projects/space-tourism-website/)
+---
+
+### 2. [Space Tourism](https://eli-frontend-projects.github.io/space-tourism-website/index.html)
+A multi-page website built for a space tourism company, focusing on complex layouts, dynamic components, and responsive design.
+
+- [Original Challenge](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
+- [Live Demo](https://eli-frontend-projects.github.io/space-tourism-website/index.html)
+- [GitHub Repository](https://github.com/Eli-Frontend-Projects/space-tourism-website)
+
+---
+
+### 3. [Social Links Profile](https://eli-frontend-projects.github.io/social-links-profile/)
+This project showcases a personal profile with social media links, designed to create a responsive and user-friendly layout.
+
+- [Original Challenge](https://www.frontendmentor.io/challenges/social-links-profile)
+- [Live Demo](https://eli-frontend-projects.github.io/social-links-profile/)
+- [GitHub Repository](https://github.com/Eli-Frontend-Projects/social-links-profile)
+
+---
+
+### 4. [Recipe Page](https://eli-frontend-projects.github.io/recipe-page/)
+A clean and user-friendly recipe page, focusing on the layout and design skills necessary to display a recipe interface effectively.
+
+- [Original Challenge](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
+- [Live Demo](https://eli-frontend-projects.github.io/recipe-page/)
+- [GitHub Repository](https://github.com/Eli-Frontend-Projects/recipe-page)
+
+---
+
+### 5. [FAQ Accordion](https://eli-frontend-projects.github.io/FAQaccordion/)
+An interactive FAQ page that allows users to expand and collapse answers to frequently asked questions. It focuses on UI/UX design and responsive behavior.
+
+- [Original Challenge](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
+- [Live Demo](https://eli-frontend-projects.github.io/FAQaccordion/)
+- [GitHub Repository](https://github.com/Eli-Frontend-Projects/FAQaccordion)
+
+---
+
+## Contributions & Feedback
+Feel free to explore the projects, and if you have any suggestions or feedback, please open an issue or submit a pull request!  
+Thank you for visiting!
 
 ## About Frontend Mentor
-
-Frontend Mentor provides challenges to improve your coding skills by building realistic projects. Challenges range from beginner to advanced levels and cover various frontend technologies.
+Frontend Mentor provides challenges to improve your coding skills by building realistic projects. The challenges range from beginner to advanced levels and cover a wide array of frontend technologies.
