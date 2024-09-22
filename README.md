@@ -10,7 +10,7 @@ A real-time chat application with two versions available:
   [Live Demo (Chat Area Only)](https://deploying-repo.onrender.com/)
 
 - **Full Version (Slower Load)**  
-  Includes login and signup pages. Load time is slower due to being hosted on Render’s free tier.  
+  Includes login and signup pages. Load time is slower due to being hosted on Render’s free tier. Also uses a database.
   [Live Demo (Full Version)](https://cluep-assignment-web.onrender.com/)
 
 - [GitHub Repository](https://github.com/Buerkem/cluep-assignment)
