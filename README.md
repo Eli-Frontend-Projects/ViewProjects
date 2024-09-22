@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various challenges from [Frontend Mentor](https://www.frontendmentor.io/). Each project folder includes a `README.md` file detailing the challenge and implementation.
 
-### 1. [Chat App](https://deploying-repo.onrender.com/)
+### 1. Chat App
 A real-time chat application with two versions available:
 
 - **Fast Load (Chat Area Only)**  
@@ -17,7 +17,7 @@ A real-time chat application with two versions available:
 
 ---
 
-### 2. [Space Tourism](https://eli-frontend-projects.github.io/space-tourism-website/index.html)
+### 2. Space Tourism
 A multi-page website built for a space tourism company, focusing on complex layouts, dynamic components, and responsive design.
 
 - [Original Challenge](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
@@ -26,7 +26,7 @@ A multi-page website built for a space tourism company, focusing on complex layo
 
 ---
 
-### 3. [Social Links Profile](https://eli-frontend-projects.github.io/social-links-profile/)
+### 3. Social Links Profile
 This project showcases a personal profile with social media links, designed to create a responsive and user-friendly layout.
 
 - [Original Challenge](https://www.frontendmentor.io/challenges/social-links-profile)
@@ -35,7 +35,7 @@ This project showcases a personal profile with social media links, designed to c
 
 ---
 
-### 4. [Recipe Page](https://eli-frontend-projects.github.io/recipe-page/)
+### 4. Recipe Page
 A clean and user-friendly recipe page, focusing on the layout and design skills necessary to display a recipe interface effectively.
 
 - [Original Challenge](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
@@ -44,7 +44,7 @@ A clean and user-friendly recipe page, focusing on the layout and design skills 
 
 ---
 
-### 5. [FAQ Accordion](https://eli-frontend-projects.github.io/FAQaccordion/)
+### 5. FAQ Accordion
 An interactive FAQ page that allows users to expand and collapse answers to frequently asked questions. It focuses on UI/UX design and responsive behavior.
 
 - [Original Challenge](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
