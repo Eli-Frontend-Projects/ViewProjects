@@ -3,7 +3,7 @@
 This repository contains my solutions to various challenges from [Frontend Mentor](https://www.frontendmentor.io/). Each project folder includes a `README.md` file detailing the challenge and implementation.
 
 ### 1. Chat App
-A real-time chat application with two versions available:
+A single-user chat application with two versions available:
 
 - **Fast Load (Chat Area Only)**  
   A quick-loading version allowing users to directly access the chat feature.  
