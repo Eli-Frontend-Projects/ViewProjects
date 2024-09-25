@@ -1,4 +1,4 @@
-# Frontend Projects
+# Frontend Projects 
 
 This repository contains my solutions to various challenges from [Frontend Mentor](https://www.frontendmentor.io/). Each project folder includes a `README.md` file detailing the challenge and implementation.
 
