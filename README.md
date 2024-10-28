@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various challenges from [Frontend Mentor](https://www.frontendmentor.io/). Each project folder includes a `README.md` file detailing the challenge and implementation.
 ### 1. Get Stark Website design
-Implemented the homepage of the getstark website
+Implemented a fully responsive version of the homepage of the getstark website
 - [Original Challenge](https://www.getstark.co/library/)
 - [Live](https://get-stark.onrender.com/)
 - [GitHub Repository](https://github.com/Eli-Frontend-Projects/get-stark)
